@@ -3,9 +3,11 @@
 // 1. Attribute events
 // 2. Assign event using the element node
 
-var h1Element =
-    document.querySelector('h1');
+var h1Elements =
+    document.querySelectorAll('h1');
 
-h1Element.onclick = function() {
-    console.log(Math.random());
+for(var i = 0; i < h1Elements.length; ++i) {
+    h1Elements[i].onclick = function(e) {
+        console.log(e.target);
+    }
 }
