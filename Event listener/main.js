@@ -1,5 +1,8 @@
 
 
+// 1. xử lý nhiều việc khi 1 event xảy ra
+// 2. Lắng nghe / Huỷ bỏ lắng nghe
+
 var btn = document.getElementById('btn');
 
 function viec1() {
