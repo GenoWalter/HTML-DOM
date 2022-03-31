@@ -101,6 +101,8 @@ var promise2 = new Promise(function(resolve) {
     }, 5000); 
 });
 
+
+
 Promise.all([promise1, promise2])
     .then(function(result) {
             var result1 = result[0];
