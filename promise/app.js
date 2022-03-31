@@ -17,6 +17,8 @@ setTimeOut(function() {
     console.log(1);
 },1000);
 
+
+
 console.log(2);
 
 // callback hell
@@ -94,6 +96,8 @@ var promise1 = new Promise(function(resolve) {
             resolve([1]);
         }, 2000); 
 });
+
+
 
 var promise2 = new Promise(function(resolve) {
     setTimeOut(function () {
