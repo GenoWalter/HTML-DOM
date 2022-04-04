@@ -114,3 +114,5 @@ Promise.all([promise1, promise2])
 
             console.log(result1.concat(result2));
     });
+
+
