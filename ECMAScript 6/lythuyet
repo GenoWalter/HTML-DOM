@@ -1,0 +1,20 @@
+- ES6 là chữ viết tắt của ECMAScript 6, là phiên bản
+mới nhất của chuẩn ECMAScript do hiệp hội các nhà
+sản xuất máy tính châu âu đề xuất làm tiêu chuẩn
+của ngôn ngữ Javascript. Bạn cứ nghĩ xem hiện nay có
+khá nhiều trình duyệt Browser ra đời và nếu mỗi
+Browser lại có cách chạy Javascript khác nhau
+thì các trang web không thể hoạt động trên tất cả
+các trình duyệt đó được, vì vậy cần có một chuẩn
+chung để bắt buộc các Browser phải phát triển dựa
+the chuẩn đó.
+- ES6 ra đời vào năm 2015 nên có cái tên ES2015 được
+lấy làm tên chính thức với nhiều tính năng mới 
+học hỏi các ngôn ngữ cấp cao khác, hy vọng dần theo
+thời gian Javascript trở thành một ngôn ngữ lập trình
+hướng đối tượng
+- Phiên bản sắp ra mắt trong 2-17 đó là phiên bản ES7 
+cũng đang dược nghiên cứu và phát triển, họ cũng nhắm đến các kiến
+thức mới lạ như async function, observer,... hy vọng sẽ có nhiều biến động mới
+
+
