@@ -7,8 +7,9 @@ console.log(rest);
 
 var course = {
     name: 'Javascript',
-    price: 1000
-    image: 'image-address'
+    price: 1000,
+    image: 'image-address',
+    description: 'description value',
     children: {
         name: 'Reactjs'
     }
